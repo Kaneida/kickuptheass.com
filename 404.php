@@ -23,10 +23,25 @@ get_header(); ?>
 				</div><!-- .entry-content -->
 			</article><!-- #post-0 .post .not-found -->
 
-
-
-
 		</div><!-- #content -->
+		
+		<header class="entry-header">
+				<center>
+				
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kickuptheass -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5570017616699499"
+     data-ad-slot="4655894316"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				
+				</center>
+				</header>
+		
+		
 	</div><!-- #primary -->
 
 <?php get_footer(); ?>
